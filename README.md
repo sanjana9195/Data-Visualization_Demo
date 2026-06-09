@@ -1,2 +1,5 @@
 # Data-Visualization_Demo
-AUthor - Sanjana B.
+This is my simple data visualization file
+<br>
+Author - Sanjana B.
+
